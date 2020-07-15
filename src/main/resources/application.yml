@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: off
+    com:
+      carbon:
+        game:
+          treasuremap: info
